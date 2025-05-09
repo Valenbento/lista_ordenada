@@ -1,0 +1,50 @@
+#Carnes{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: brown;
+}
+
+#Graos{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+}
+
+#Geladeira{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+}
+
+#Carnes li::marker{
+    
+    color: blue;
+
+}
+
+#Graos li::marker{
+
+    color: brown;
+}
+
+
+#Geladeira li::marker{
+    color: green;
+}
+
+
+#Tarefas{
+    font-size: 30px;
+    color: pink;
+    background-color: aquamarine;
+}
+
+#Tarefas li::marker{
+    color: yellow;
+    font-size: 40px;
+
+
+}
+*{
+    margin: 20px;
+}
